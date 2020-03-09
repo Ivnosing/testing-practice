@@ -1,5 +1,5 @@
 /**
- * Capitalizes the first character of a string and returns it
+ * Capitalizes the first character of a string and returns it.
  *
  * @param {string} text
  */

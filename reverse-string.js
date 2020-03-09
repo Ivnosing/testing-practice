@@ -1,5 +1,5 @@
 /**
- * Reverses a string and returns it
+ * Reverses a string and returns it.
  *
  * @param {string} text
  */
