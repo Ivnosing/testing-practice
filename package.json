@@ -1,0 +1,14 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "Just a few scripts developed using TDD.",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "author": "Iván Navarro Agulló",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
